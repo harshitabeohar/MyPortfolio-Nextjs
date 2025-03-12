@@ -43,7 +43,7 @@ const AboutSection = () => {
             <br />
             <p>
               I graduated from RGPV, India in 2015
-              with a Bachelor's Degree in Electronics & Communication Engineering and have been working in the
+              with a Bachelor&apos;s Degree in Electronics & Communication Engineering and have been working in the
               field ever since.
             </p>
             <br />
