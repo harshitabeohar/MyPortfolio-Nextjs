@@ -12,22 +12,22 @@ const projects = [
     image: "/blog.png",
     github: "https://github.com/harshitabeohar/blog-nextjs",
     link: "https://blog-nextjs-harshita-beohars-projects.vercel.app/",
-  }
-  // {
-  //   name: "PlatoIO",
-  //   description: "PlatoIO is a to do list app that built using the PERN stack.",
-  //   image: "/platoio.png",
-  //   github: "https://github.com/hqasmei/platoio",
-  //   link: "https://platoio.com/register",
-  // },
-  // {
-  //   name: "Kator Family Photos",
-  //   description:
-  //     "Kator Family Photos is a photos and video digitization service in the LA area.",
-  //   image: "/familyphotos.png",
-  //   github: "https://github.com/hqasmei/katorfamilyphotos",
-  //   link: "https://katorfamilyphotos.com/",
-  // },
+  },
+  {
+    name: "AI Task Manager",
+    description: "A modern task management application built with React, TypeScript, and Tailwind CSS, featuring AI-powered task analysis and smart categorization.",
+    image: "/aiTaskManager.png",
+    github: "https://github.com/harshitabeohar/ai-task-manager",
+    link: "",
+  },
+  {
+    name: "PubMed Explorer App",
+    description:
+      "A proof-of-concept React + TypeScript web app that helps users search and browse scientific articles on Artificial Intelligence in Healthcare using the PubMed E-Utilities API.",
+    image: "/pubmedExplorer.png",
+    github: "https://github.com/harshitabeohar/pubmed-article-explorer",
+    link: "",
+  },
 ]
 
 const ProjectsSection = () => {
